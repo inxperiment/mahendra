@@ -1,1 +1,0 @@
-# Mahendra AI Experiment Simulator

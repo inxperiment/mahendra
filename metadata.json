@@ -1,0 +1,5 @@
+{
+  "name": "2D AI Simulator",
+  "description": "A dynamic 2D AI simulator where users can describe a scenario in natural language, and AI agents will act it out. Watch as agents interact, follow complex rules, and play out scenarios like hide-and-seek, predator-prey dynamics, and more, all visualized in real-time.",
+  "requestFramePermissions": []
+}
